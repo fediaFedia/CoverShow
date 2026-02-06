@@ -1,4 +1,5 @@
-Download: Releases · fediaFedia/CoverShow (github.com)
+<img width="620" height="402" alt="image" src="https://github.com/user-attachments/assets/9715c47c-c4e3-437e-9360-6ce66cbaac58" />
+
 Excited to share my latest pet project with you guys!
 I've been looking for a CoverFlow app for Windows and couldn't find anything except for a few tutorials.
 
@@ -9,12 +10,14 @@ Too bad we haven't seen it in years. But well, armed with Cursor and some can do
 
 Features:
 
-View JPGs, PNGs and MP3s
-Smooth, keyboard-friendly navigation and fast previews
-Local library scanning and small, efficient indexing, the .exe is super tiny
-Simply integrates into the Explorer Context Menu
-Small footprint - optimized for responsiveness on Windows
-There is also some customization via the Registry:
+- View JPGs, PNGs and MP3s
+- Smooth, keyboard-friendly navigation and fast previews
+- Local library scanning and small, efficient indexing, the .exe is super tiny
+- Simply integrates into the Explorer Context Menu
+- Small footprint - optimized for responsiveness on Windows
+- There is also some customization via the Registry:
+
+<img width="717" height="163" alt="image" src="https://github.com/user-attachments/assets/143b533f-9681-41d5-934c-40791cb93d50" />
 
 
 Still BETA as I am figuring C# out...
